@@ -1,0 +1,68 @@
+.outer{
+    border: 10px solid greenyellow;
+    width: 2000px;
+    height:2000px;
+    background-image: url(https://image.shutterstock.com/image-illustration/water-world-260nw-58353553.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+.card-border{
+    width: 500px;
+    height: 200px;
+    border: 10px solid red;
+    border-radius: 40px;
+    background-color: black;
+    margin-left: 100px;
+    margin-top: 50px;
+   position: relative;
+}
+.card-border2{
+    width: 700px;
+    height: 100px;
+    border: 10px solid red;
+    border-radius: 60px;
+    background-color: black;
+    margin-left: 400px;
+    margin-top: -200px;
+   position: absolute;
+}
+.card-border3{
+    width: 500px;
+    height: 200px;
+    border: 10px solid red;
+    border-radius: 40px;
+    background-color: black;
+    margin-left: 1200px;
+    margin-top: -250px;
+   position: absolute;
+}
+.plane-text{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.form{
+    border: 10px dashed tomato;
+    width: 400px;
+    height:600px;
+    margin-left: 1000px;
+    margin-top: 200px;
+    background-color: white;
+}
+.form-text{
+    color: maroon;
+    text-align: center;
+}
+.styles{
+    color: maroon;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.styles2{
+    margin-left: 130px;
+}
